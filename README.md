@@ -2,4 +2,5 @@
 Calculadora de IMC feita com HTML, CSS e JavaScript como projeto de lógica na Digital College.
 
 
-![IMC Calculator](https://user-images.githubusercontent.com/72752286/200580650-15e20fbf-693a-4421-8a7f-3351c8268a68.png)
+
+![IMC Calculator](https://user-images.githubusercontent.com/72752286/200605293-9f3a5c3c-86a7-4f27-b973-1e0ed1ef0934.png)
