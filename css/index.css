@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background-color: gray;
 }
 
 h1 {
@@ -8,7 +8,7 @@ h1 {
 }
 
 .IMCalc {
-    background-color: gray;
+    background-color: lightgray;
     width: 200px;
     height: 300px;
     display: flex;

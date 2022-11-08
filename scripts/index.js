@@ -17,3 +17,7 @@ function calcularIMC() {
     mensagens.innerText="Obesidade de Classe 3";
     }
 }
+function limpar() {
+  let limparBtn = document.getElementById("mensagens")
+  limparBtn.innerText="Resultado";
+}
